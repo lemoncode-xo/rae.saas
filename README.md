@@ -1,7 +1,7 @@
-# RAE.AI - Land and Asset Valuation Platform
+# RAE.Saas - Land and Asset Valuation Services 
 
 ## Overview
-RAE.AI is a web application focused on land valuation in Abuja, with plans to scale to comprehensive asset valuation across Nigeria. The platform aims to provide accurate, data-driven property valuations using advanced AI technologies.
+RAE.Saas is a web application focused on land valuation in Abuja, with plans to scale to comprehensive asset valuation across Nigeria. The platform aims to provide accurate, data-driven property valuations using ML.
 
 ## Project Structure
 - /src - Source code for the web application
